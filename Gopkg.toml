@@ -1,0 +1,151 @@
+[[constraint]]
+  name = "github.com/NYTimes/gziphandler"
+  version = "v1.0.1"
+[[constraint]]
+  name = "github.com/armon/circbuf"
+  revision = "bbbad097214e"
+[[constraint]]
+  name = "github.com/armon/go-metrics"
+  revision = "f0300d1749da"
+[[constraint]]
+  name = "github.com/armon/go-radix"
+  revision = "7fddfc383310"
+[[constraint]]
+  name = "github.com/coredns/coredns"
+  version = "v1.1.2"
+[[constraint]]
+  name = "github.com/docker/go-connections"
+  version = "v0.3.0"
+[[constraint]]
+  name = "github.com/elazarl/go-bindata-assetfs"
+  revision = "e1a2a7ec64b0"
+[[constraint]]
+  name = "github.com/envoyproxy/go-control-plane"
+  revision = "2137d9196328"
+[[constraint]]
+  name = "github.com/gogo/googleapis"
+  version = "v1.1.0"
+[[constraint]]
+  name = "github.com/gogo/protobuf"
+  version = "v1.1.1"
+[[constraint]]
+  name = "github.com/golang/protobuf"
+  version = "v1.2.0"
+[[constraint]]
+  name = "github.com/google/gofuzz"
+  revision = "24818f796faf"
+[[constraint]]
+  name = "github.com/hashicorp/go-checkpoint"
+  revision = "1545e56e46de"
+[[constraint]]
+  name = "github.com/hashicorp/go-cleanhttp"
+  version = "v0.5.1"
+[[constraint]]
+  name = "github.com/hashicorp/go-discover"
+  revision = "22221edb15cd"
+[[constraint]]
+  name = "github.com/hashicorp/go-memdb"
+  revision = "1289e7fffe71"
+[[constraint]]
+  name = "github.com/hashicorp/go-msgpack"
+  version = "v0.5.3"
+[[constraint]]
+  name = "github.com/hashicorp/go-multierror"
+  version = "v1.0.0"
+[[constraint]]
+  name = "github.com/hashicorp/go-plugin"
+  revision = "e8d22c780116"
+[[constraint]]
+  name = "github.com/hashicorp/go-rootcerts"
+  version = "v1.0.0"
+[[constraint]]
+  name = "github.com/hashicorp/go-sockaddr"
+  version = "v1.0.0"
+[[constraint]]
+  name = "github.com/hashicorp/go-syslog"
+  version = "v1.0.0"
+[[constraint]]
+  name = "github.com/hashicorp/go-uuid"
+  version = "v1.0.1"
+[[constraint]]
+  name = "github.com/hashicorp/go-version"
+  revision = "03c5bf6be031"
+[[constraint]]
+  name = "github.com/hashicorp/golang-lru"
+  version = "v0.5.0"
+[[constraint]]
+  name = "github.com/hashicorp/hcl"
+  revision = "65a6292f0157"
+[[constraint]]
+  name = "github.com/hashicorp/hil"
+  revision = "1e86c6b523c5"
+[[constraint]]
+  name = "github.com/hashicorp/logutils"
+  version = "v1.0.0"
+[[constraint]]
+  name = "github.com/hashicorp/memberlist"
+  version = "v0.1.3"
+[[constraint]]
+  name = "github.com/hashicorp/net-rpc-msgpackrpc"
+  revision = "a14192a58a69"
+[[constraint]]
+  name = "github.com/hashicorp/raft"
+  revision = "d9fe23f7d472"
+[[constraint]]
+  name = "github.com/hashicorp/raft-boltdb"
+  revision = "d1e82c1ec3f1"
+[[constraint]]
+  name = "github.com/hashicorp/serf"
+  version = "v0.8.2"
+[[constraint]]
+  name = "github.com/hashicorp/vault"
+  version = "v0.10.3"
+[[constraint]]
+  name = "github.com/hashicorp/yamux"
+  revision = "3520598351bb"
+[[constraint]]
+  name = "github.com/kr/text"
+  version = "v0.1.0"
+[[constraint]]
+  name = "github.com/miekg/dns"
+  version = "v1.0.14"
+[[constraint]]
+  name = "github.com/mitchellh/cli"
+  version = "v1.0.0"
+[[constraint]]
+  name = "github.com/mitchellh/copystructure"
+  revision = "cdac8253d00f"
+[[constraint]]
+  name = "github.com/mitchellh/go-testing-interface"
+  version = "v1.0.0"
+[[constraint]]
+  name = "github.com/mitchellh/hashstructure"
+  revision = "2bca23e0e452"
+[[constraint]]
+  name = "github.com/mitchellh/mapstructure"
+  version = "v1.1.2"
+[[constraint]]
+  name = "github.com/mitchellh/reflectwalk"
+  revision = "63d60e9d0dbc"
+[[constraint]]
+  name = "github.com/pascaldekloe/goe"
+  revision = "57f6aae5913c"
+[[constraint]]
+  name = "github.com/pkg/errors"
+  version = "v0.8.1"
+[[constraint]]
+  name = "github.com/prometheus/client_golang"
+  revision = "f504d69affe1"
+[[constraint]]
+  name = "github.com/ryanuber/columnize"
+  revision = "9b3edd62028f"
+[[constraint]]
+  name = "github.com/shirou/gopsutil"
+  revision = "48177ef5f880"
+[[constraint]]
+  name = "github.com/stretchr/testify"
+  version = "v1.3.0"
+[[constraint]]
+  name = "google.golang.org/grpc"
+  revision = "8997b5fa0873"
+
